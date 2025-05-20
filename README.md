@@ -1,5 +1,7 @@
 # About this Notebook
 
+View the notebook with plots and tables here: https://nbviewer.org/github/phibya/message-effect/blob/main/analysis.ipynb
+
 This notebook demonstrates how to analyze the treatment effect of the test messages using different methods, specifically:
 - Basic analysis: calculate the average treatment effect (ATE) for all messages and demographic segments without any model.
 - Linear regression: use a linear regression model to analyze the treatment effect.
